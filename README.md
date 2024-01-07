@@ -1,2 +1,2 @@
 # git_learning
-authOR - Akash kumar
+author - Akash kumar
